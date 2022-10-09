@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" align="right" height="300" width="400" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 </div>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome my Github.</h1>
